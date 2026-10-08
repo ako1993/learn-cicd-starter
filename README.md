@@ -28,3 +28,5 @@ Andreas's version of Boot.dev's Notely app
 
 
 Adding something to test cd
+
+Trying to test CD again
